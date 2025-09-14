@@ -1,1 +1,1 @@
-Uses RStudio, tidyverse, and mosaic libraries to graph and calculate probabilities from Taylor Swift, Avengers, and Super Bowl Commercial datasets.
+[STA 301 Homework 1-2.pdf](https://github.com/user-attachments/files/22324032/STA.301.Homework.1-2.pdf)
