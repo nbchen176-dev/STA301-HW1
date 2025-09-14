@@ -1,0 +1,192 @@
+song,track,album,year,bonus,featuring,key,pitch,mode,duration,tempo,danceability,energy,loudness,speechiness,acousticness,valence,date
+Tim McGraw,1,Taylor Swift,2006,FALSE,NA,C,0,major,232,76.009,0.58,0.491,-6.462,0.025,0.575,0.425,10/24/2006
+Picture To Burn,2,Taylor Swift,2006,FALSE,NA,G,7,major,173,105.586,0.658,0.877,-2.098,0.032,0.173,0.821,10/24/2006
+Teardrops On My Guitar,3,Taylor Swift,2006,FALSE,NA,A#,10,major,203,99.953,0.621,0.417,-6.941,0.023,0.288,0.289,10/24/2006
+A Place In This World,4,Taylor Swift,2006,FALSE,NA,A,9,major,199,115.028,0.576,0.777,-2.881,0.032,0.051,0.428,10/24/2006
+Cold As You,5,Taylor Swift,2006,FALSE,NA,F,5,major,239,175.558,0.418,0.482,-5.769,0.027,0.217,0.261,10/24/2006
+The Outside,6,Taylor Swift,2006,FALSE,NA,F,5,major,207,112.982,0.589,0.805,-4.055,0.029,0.005,0.591,10/24/2006
+Tied Together With A Smile,7,Taylor Swift,2006,FALSE,NA,D,2,major,248,146.165,0.479,0.578,-4.963,0.029,0.525,0.192,10/24/2006
+Stay Beautiful,8,Taylor Swift,2006,FALSE,NA,G#,8,major,236,131.597,0.594,0.629,-4.919,0.025,0.087,0.504,10/24/2006
+Should've Said No,9,Taylor Swift,2006,FALSE,NA,E,4,minor,242,167.964,0.476,0.777,-3.771,0.029,0.01,0.472,10/24/2006
+Mary's Song (Oh My My My),10,Taylor Swift,2006,FALSE,NA,D,2,major,213,74.9,0.403,0.627,-5.28,0.029,0.018,0.374,10/24/2006
+Our Song,11,Taylor Swift,2006,FALSE,NA,D,2,major,201,89.011,0.668,0.672,-4.931,0.03,0.111,0.539,10/24/2006
+I'm Only Me When I'm With You,12,Taylor Swift,2006,TRUE,NA,G#,8,major,213,143.964,0.563,0.934,-3.629,0.065,0.005,0.518,10/24/2006
+Invisible,13,Taylor Swift,2006,TRUE,NA,G,7,major,203,96.001,0.612,0.394,-5.723,0.024,0.637,0.233,10/24/2006
+A Perfectly Good Heart,14,Taylor Swift,2006,TRUE,NA,E,4,major,220,156.092,0.483,0.751,-5.726,0.037,0.003,0.268,10/24/2006
+Teardrops On My Guitar (Pop Version),15,Taylor Swift,2006,TRUE,NA,A#,10,major,179,199.997,0.459,0.753,-3.827,0.054,0.04,0.483,10/24/2006
+Mine,1,Speak Now,2010,FALSE,NA,G,7,major,231,121.07,0.624,0.757,-2.94,0.03,0.003,0.658,10/25/2010
+Sparks Fly,2,Speak Now,2010,FALSE,NA,F,5,major,261,114.987,0.605,0.787,-3.002,0.031,0.04,0.374,10/25/2010
+Back To December,3,Speak Now,2010,FALSE,NA,D,2,major,293,141.893,0.529,0.67,-4.663,0.03,0.117,0.286,10/25/2010
+Speak Now,4,Speak Now,2010,FALSE,NA,G,7,major,241,118.975,0.709,0.599,-3.734,0.03,0.095,0.735,10/25/2010
+Dear John,5,Speak Now,2010,FALSE,NA,E,4,major,404,119.386,0.589,0.47,-5.32,0.028,0.166,0.102,10/25/2010
+Mean,6,Speak Now,2010,FALSE,NA,E,4,major,238,163.974,0.568,0.761,-3.987,0.046,0.452,0.789,10/25/2010
+The Story Of Us,7,Speak Now,2010,FALSE,NA,E,4,major,266,139.898,0.543,0.818,-3.611,0.04,0.005,0.683,10/25/2010
+Never Grow Up,8,Speak Now,2010,FALSE,NA,D,2,major,290,124.91,0.714,0.305,-8.837,0.031,0.819,0.554,10/25/2010
+Enchanted,9,Speak Now,2010,FALSE,NA,G#,8,major,352,163.893,0.455,0.623,-3.878,0.029,0.074,0.208,10/25/2010
+Better Than Revenge,10,Speak Now,2010,FALSE,NA,B,11,minor,217,145.821,0.516,0.917,-3.186,0.083,0.014,0.635,10/25/2010
+Innocent,11,Speak Now,2010,FALSE,NA,C#,1,minor,302,134.05,0.552,0.608,-5.29,0.026,0.186,0.17,10/25/2010
+Haunted,12,Speak Now,2010,FALSE,NA,F,5,major,242,162.088,0.436,0.95,-2.627,0.057,0.083,0.352,10/25/2010
+Last Kiss,13,Speak Now,2010,FALSE,NA,A#,10,major,367,89.038,0.371,0.341,-9.475,0.032,0.57,0.196,10/25/2010
+Long Live,14,Speak Now,2010,FALSE,NA,G,7,major,317,204.12,0.418,0.68,-4.3,0.035,0.036,0.142,10/25/2010
+Ours,15,Speak Now,2010,TRUE,NA,C,0,major,238,159.845,0.608,0.569,-7.227,0.028,0.537,0.238,10/25/2010
+If This Was A Movie,16,Speak Now,2010,TRUE,NA,E,4,major,235,147.852,0.511,0.719,-3.457,0.027,0.166,0.289,10/25/2010
+Superman,17,Speak Now,2010,TRUE,NA,G,7,major,276,131.982,0.582,0.765,-3.648,0.032,0.027,0.559,10/25/2010
+Welcome To New York,1,1989,2014,FALSE,NA,G,7,major,213,116.992,0.789,0.634,-4.762,0.032,0.035,0.658,10/27/2014
+Blank Space,2,1989,2014,FALSE,NA,F,5,major,232,95.997,0.76,0.703,-5.412,0.054,0.103,0.57,10/27/2014
+Style,3,1989,2014,FALSE,NA,G,7,major,231,94.933,0.588,0.791,-5.595,0.04,0.002,0.487,10/27/2014
+Out Of The Woods,4,1989,2014,FALSE,NA,G,7,major,236,92.008,0.553,0.841,-6.937,0.04,0.001,0.338,10/27/2014
+All You Had To Do Was Stay,5,1989,2014,FALSE,NA,F,5,major,193,96.97,0.605,0.725,-5.729,0.032,0.002,0.539,10/27/2014
+Shake It Off,6,1989,2014,FALSE,NA,G,7,major,219,160.078,0.647,0.8,-5.384,0.165,0.065,0.942,10/27/2014
+I Wish You Would,7,1989,2014,FALSE,NA,C,0,major,207,118.035,0.653,0.893,-5.966,0.054,0.016,0.513,10/27/2014
+Bad Blood,8,1989,2014,FALSE,NA,G,7,major,212,170.216,0.646,0.794,-6.104,0.19,0.089,0.287,10/27/2014
+Wildest Dreams,9,1989,2014,FALSE,NA,G#,8,major,220,139.997,0.55,0.688,-7.416,0.09,0.069,0.465,10/27/2014
+How You Get The Girl,10,1989,2014,FALSE,NA,F,5,major,248,119.997,0.765,0.656,-6.112,0.05,0.004,0.545,10/27/2014
+This Love,11,1989,2014,FALSE,NA,E,4,major,250,143.95,0.481,0.435,-8.795,0.032,0.678,0.107,10/27/2014
+I Know Places,12,1989,2014,FALSE,NA,C,0,major,196,159.965,0.602,0.755,-4.991,0.071,0.245,0.495,10/27/2014
+Clean,13,1989,2014,FALSE,NA,E,4,major,271,103.97,0.815,0.377,-7.754,0.035,0.232,0.211,10/27/2014
+Wonderland,14,1989,2014,TRUE,NA,D#,3,major,246,184.014,0.422,0.692,-5.447,0.055,0.049,0.197,10/27/2014
+You Are In Love,15,1989,2014,TRUE,NA,D,2,major,267,170.109,0.474,0.48,-8.894,0.062,0.707,0.319,10/27/2014
+New Romantics,16,1989,2014,TRUE,NA,F,5,major,230,121.956,0.633,0.889,-5.87,0.072,0.005,0.584,10/27/2014
+...Ready For It?,1,reputation,2017,FALSE,NA,D,2,major,208,160.015,0.613,0.764,-6.509,0.136,0.053,0.417,11/10/2017
+End Game,2,reputation,2017,FALSE,"Ed Sheeran, Future",D,2,major,245,159.073,0.649,0.589,-6.237,0.056,0.008,0.151,11/10/2017
+I Did Something Bad,3,reputation,2017,FALSE,NA,C,0,minor,238,82.989,0.696,0.602,-6.156,0.159,0.068,0.305,11/10/2017
+Don't Blame Me,4,reputation,2017,FALSE,NA,A,9,minor,236,135.917,0.615,0.534,-6.719,0.039,0.106,0.193,11/10/2017
+Delicate,5,reputation,2017,FALSE,NA,A,9,minor,232,95.045,0.75,0.404,-10.178,0.068,0.216,0.05,11/10/2017
+Look What You Made Me Do,6,reputation,2017,FALSE,NA,A,9,minor,212,128.07,0.766,0.709,-6.471,0.123,0.204,0.506,11/10/2017
+So It Goes...,7,reputation,2017,FALSE,NA,D,2,major,228,74.957,0.574,0.61,-7.283,0.073,0.122,0.374,11/10/2017
+Gorgeous,8,reputation,2017,FALSE,NA,G,7,major,210,92.027,0.8,0.535,-6.684,0.135,0.071,0.451,11/10/2017
+Getaway Car,9,reputation,2017,FALSE,NA,D,2,major,234,172.054,0.562,0.689,-6.745,0.127,0.005,0.351,11/10/2017
+King Of My Heart,10,reputation,2017,FALSE,NA,C,0,major,214,110.01,0.675,0.703,-7.902,0.038,0.009,0.314,11/10/2017
+Dancing With Our Hands Tied,11,reputation,2017,FALSE,NA,C,0,minor,212,160.024,0.624,0.691,-6.686,0.196,0.06,0.284,11/10/2017
+Dress,12,reputation,2017,FALSE,NA,C,0,major,230,120.085,0.719,0.469,-8.792,0.053,0.033,0.085,11/10/2017
+This Is Why We Can't Have Nice Things,13,reputation,2017,FALSE,NA,F,5,major,207,163.96,0.567,0.789,-5.986,0.115,0.016,0.438,11/10/2017
+Call It What You Want,14,reputation,2017,FALSE,NA,A,9,major,204,163.954,0.598,0.504,-9.874,0.073,0.186,0.252,11/10/2017
+New Year's Day,15,reputation,2017,FALSE,NA,C,0,major,235,94.922,0.661,0.151,-12.864,0.035,0.921,0.23,11/10/2017
+I Forgot That You Existed,1,Lover,2019,FALSE,NA,F,5,major,171,92.875,0.664,0.316,-10.345,0.519,0.298,0.541,8/23/2019
+Cruel Summer,2,Lover,2019,FALSE,NA,A,9,major,178,169.994,0.552,0.702,-5.707,0.157,0.117,0.564,8/23/2019
+Lover,3,Lover,2019,FALSE,NA,G,7,major,221,68.534,0.359,0.543,-7.582,0.092,0.492,0.453,8/23/2019
+The Man,4,Lover,2019,FALSE,NA,C,0,major,190,110.048,0.777,0.658,-5.191,0.054,0.077,0.633,8/23/2019
+The Archer,5,Lover,2019,FALSE,NA,C,0,major,211,124.344,0.292,0.574,-9.375,0.04,0.12,0.166,8/23/2019
+I Think He Knows,6,Lover,2019,FALSE,NA,C,0,major,173,100.003,0.897,0.366,-8.029,0.057,0.009,0.416,8/23/2019
+Miss Americana & The Heartbreak Prince,7,Lover,2019,FALSE,NA,B,11,minor,234,150.088,0.662,0.747,-6.926,0.074,0.028,0.487,8/23/2019
+Paper Rings,8,Lover,2019,FALSE,NA,A,9,major,222,103.979,0.811,0.719,-6.553,0.05,0.013,0.865,8/23/2019
+Cornelia Street,9,Lover,2019,FALSE,NA,C,0,major,287,102.012,0.824,0.624,-9.728,0.083,0.781,0.248,8/23/2019
+Death By A Thousand Cuts,10,Lover,2019,FALSE,NA,E,4,major,199,94.071,0.712,0.732,-6.754,0.063,0.454,0.313,8/23/2019
+London Boy,11,Lover,2019,FALSE,NA,C#,1,major,190,157.925,0.695,0.71,-6.639,0.05,0.025,0.557,8/23/2019
+Soon You'll Get Better,12,Lover,2019,FALSE,The Chicks,C,0,major,202,207.476,0.433,0.182,-12.566,0.064,0.907,0.421,8/23/2019
+False God,13,Lover,2019,FALSE,NA,B,11,minor,200,79.97,0.739,0.32,-10.862,0.239,0.736,0.351,8/23/2019
+You Need To Calm Down,14,Lover,2019,FALSE,NA,D,2,major,171,85.026,0.771,0.671,-5.617,0.055,0.009,0.714,8/23/2019
+Afterglow,15,Lover,2019,FALSE,NA,A,9,major,223,111.011,0.756,0.449,-8.746,0.034,0.13,0.399,8/23/2019
+ME!,16,Lover,2019,FALSE,"Brendon Urie, Panic! At The Disco",C,0,major,193,182.162,0.61,0.83,-4.105,0.057,0.033,0.728,8/23/2019
+It's Nice To Have A Friend,17,Lover,2019,FALSE,NA,A#,10,major,150,70.008,0.737,0.175,-9.912,0.04,0.971,0.545,8/23/2019
+Daylight,18,Lover,2019,FALSE,NA,C,0,major,293,149.983,0.557,0.496,-9.602,0.056,0.808,0.265,8/23/2019
+the 1,1,folklore,2020,FALSE,NA,C,0,major,210,139.902,0.78,0.361,-6.942,0.048,0.75,0.163,7/24/2020
+cardigan,2,folklore,2020,FALSE,NA,C,0,minor,240,130.045,0.612,0.58,-8.572,0.042,0.525,0.534,7/24/2020
+the last great american dynasty,3,folklore,2020,FALSE,NA,G,7,major,231,147.991,0.688,0.653,-8.558,0.04,0.481,0.701,7/24/2020
+exile,4,folklore,2020,FALSE,Bon Iver,F#,6,major,286,75.938,0.31,0.374,-8.464,0.028,0.761,0.16,7/24/2020
+my tears ricochet,5,folklore,2020,FALSE,NA,C,0,major,256,129.947,0.456,0.265,-10.663,0.033,0.814,0.112,7/24/2020
+mirrorball,6,folklore,2020,FALSE,NA,G,7,major,209,110.137,0.549,0.417,-10.064,0.035,0.686,0.347,7/24/2020
+seven,7,folklore,2020,FALSE,NA,E,4,major,209,94.955,0.602,0.494,-10.813,0.028,0.888,0.374,7/24/2020
+august,8,folklore,2020,FALSE,NA,F,5,major,262,89.567,0.387,0.634,-9.222,0.036,0.553,0.42,7/24/2020
+this is me trying,9,folklore,2020,FALSE,NA,A,9,major,195,135.882,0.511,0.478,-9.837,0.032,0.312,0.408,7/24/2020
+illicit affairs,10,folklore,2020,FALSE,NA,A#,10,major,191,119.58,0.529,0.304,-10.567,0.036,0.862,0.44,7/24/2020
+invisible string,11,folklore,2020,FALSE,NA,E,4,minor,253,83.455,0.651,0.459,-11.128,0.051,0.859,0.454,7/24/2020
+mad woman,12,folklore,2020,FALSE,NA,D#,3,major,237,141.898,0.593,0.7,-9.016,0.049,0.67,0.451,7/24/2020
+epiphany,13,folklore,2020,FALSE,NA,C#,1,major,290,93.933,0.317,0.254,-13.679,0.029,0.727,0.103,7/24/2020
+betty,14,folklore,2020,FALSE,NA,C,0,major,295,95.946,0.595,0.376,-8.767,0.026,0.589,0.476,7/24/2020
+peace,15,folklore,2020,FALSE,NA,F,5,major,234,150.072,0.644,0.284,-12.879,0.082,0.916,0.328,7/24/2020
+hoax,16,folklore,2020,FALSE,NA,G#,8,major,220,118.84,0.676,0.178,-15.01,0.039,0.964,0.404,7/24/2020
+the lakes,17,folklore,2020,TRUE,NA,D,2,major,212,179.947,0.313,0.258,-11.532,0.038,0.842,0.268,7/24/2020
+willow,1,evermore,2020,FALSE,NA,G,7,major,215,81.112,0.392,0.574,-9.195,0.17,0.833,0.529,12/11/2020
+champagne problems,2,evermore,2020,FALSE,NA,C,0,major,244,171.319,0.462,0.24,-12.077,0.038,0.92,0.32,12/11/2020
+gold rush,3,evermore,2020,FALSE,NA,A,9,major,185,112.05,0.512,0.462,-10.491,0.041,0.83,0.353,12/11/2020
+'tis the damn season,4,evermore,2020,FALSE,NA,F,5,major,230,145.916,0.575,0.434,-8.193,0.031,0.735,0.348,12/11/2020
+tolerate it,5,evermore,2020,FALSE,NA,A,9,major,245,74.952,0.316,0.361,-10.381,0.049,0.878,0.221,12/11/2020
+"no body, no crime",6,evermore,2020,FALSE,HAIM,G,7,minor,216,79.015,0.546,0.613,-7.589,0.026,0.418,0.535,12/11/2020
+happiness,7,evermore,2020,FALSE,NA,B,11,major,315,122.079,0.559,0.334,-10.733,0.038,0.87,0.211,12/11/2020
+dorothea,8,evermore,2020,FALSE,NA,E,4,major,226,119.966,0.605,0.488,-8.322,0.026,0.696,0.354,12/11/2020
+coney island,9,evermore,2020,FALSE,The National,G#,8,major,275,107.895,0.537,0.537,-11.266,0.062,0.819,0.292,12/11/2020
+ivy,10,evermore,2020,FALSE,NA,D,2,major,260,88.856,0.515,0.545,-9.277,0.035,0.855,0.535,12/11/2020
+cowboy like me,11,evermore,2020,FALSE,NA,C,0,major,275,127.967,0.604,0.517,-9.014,0.035,0.768,0.511,12/11/2020
+long story short,12,evermore,2020,FALSE,NA,C,0,major,216,157.895,0.546,0.73,-7.704,0.042,0.66,0.573,12/11/2020
+marjorie,13,evermore,2020,FALSE,NA,F,5,major,258,96.103,0.535,0.561,-11.609,0.048,0.876,0.287,12/11/2020
+closure,14,evermore,2020,FALSE,NA,A,9,major,181,151.884,0.689,0.704,-10.813,0.245,0.835,0.92,12/11/2020
+evermore,15,evermore,2020,FALSE,Bon Iver,C#,1,major,304,125.177,0.39,0.27,-10.673,0.031,0.937,0.32,12/11/2020
+right where you left me,16,evermore,2020,TRUE,NA,A#,10,major,245,137.915,0.581,0.619,-6.524,0.028,0.769,0.645,12/11/2020
+it's time to go,17,evermore,2020,TRUE,NA,C,0,major,255,151.923,0.592,0.41,-12.426,0.04,0.801,0.416,12/11/2020
+Fearless (Taylor's Version),1,Fearless,2021,FALSE,NA,F,5,major,242,100.118,0.569,0.741,-4.963,0.028,0.012,0.43,4/9/2021
+Fifteen (Taylor's Version),2,Fearless,2021,FALSE,NA,G,7,major,294,95.466,0.559,0.646,-4.61,0.027,0.116,0.289,4/9/2021
+Love Story (Taylor's Version),3,Fearless,2021,FALSE,NA,D,2,major,236,119.054,0.627,0.792,-4.311,0.031,0.13,0.415,4/9/2021
+Hey Stephen (Taylor's Version),4,Fearless,2021,FALSE,NA,F#,6,major,254,115.99,0.788,0.571,-6.135,0.03,0.106,0.797,4/9/2021
+White Horse (Taylor's Version),5,Fearless,2021,FALSE,NA,C,0,major,235,185.262,0.423,0.517,-7.377,0.049,0.369,0.366,4/9/2021
+You Belong With Me (Taylor's Version),6,Fearless,2021,FALSE,NA,F#,6,major,231,130.033,0.632,0.773,-4.856,0.035,0.062,0.474,4/9/2021
+Breathe (Taylor's Version),7,Fearless,2021,FALSE,Colbie Caillat,C#,1,major,263,148.035,0.506,0.626,-6.066,0.029,0.156,0.321,4/9/2021
+Tell Me Why (Taylor's Version),8,Fearless,2021,FALSE,NA,G,7,major,201,100.023,0.578,0.909,-3.669,0.063,0.022,0.541,4/9/2021
+You're Not Sorry (Taylor's Version),9,Fearless,2021,FALSE,NA,F#,6,major,262,133.873,0.506,0.444,-4.99,0.029,0.054,0.241,4/9/2021
+The Way I Loved You (Taylor's Version),10,Fearless,2021,FALSE,NA,F,5,major,243,161.032,0.402,0.732,-4.665,0.048,0.003,0.472,4/9/2021
+Forever & Always (Taylor's Version),11,Fearless,2021,FALSE,NA,A#,10,major,225,128.03,0.598,0.821,-4.433,0.045,0.023,0.673,4/9/2021
+The Best Day (Taylor's Version),12,Fearless,2021,FALSE,NA,C#,1,major,245,125,0.642,0.576,-8.524,0.028,0.488,0.469,4/9/2021
+Change (Taylor's Version),13,Fearless,2021,FALSE,NA,F,5,major,279,95.999,0.499,0.815,-4.063,0.034,0,0.344,4/9/2021
+Jump Then Fall (Taylor's Version),14,Fearless,2021,FALSE,NA,D,2,major,238,160.111,0.572,0.69,-6.201,0.036,0.047,0.624,4/9/2021
+Untouchable (Taylor's Version),15,Fearless,2021,FALSE,NA,F,5,major,312,200.391,0.393,0.531,-6.112,0.033,0.018,0.224,4/9/2021
+Forever & Always (Piano Version) [Taylor's Version],16,Fearless,2021,FALSE,NA,A,9,major,268,118.753,0.546,0.273,-9.208,0.031,0.819,0.271,4/9/2021
+Come In With The Rain (Taylor's Version),17,Fearless,2021,FALSE,NA,D,2,major,237,143.929,0.476,0.564,-5.677,0.027,0.041,0.167,4/9/2021
+SuperStar (Taylor's Version),18,Fearless,2021,FALSE,NA,D,2,major,264,171.862,0.454,0.555,-6.69,0.028,0.157,0.171,4/9/2021
+The Other Side Of The Door (Taylor's Version),19,Fearless,2021,FALSE,NA,E,4,major,238,163.936,0.432,0.873,-4.367,0.058,0.028,0.629,4/9/2021
+Today Was A Fairytale (Taylor's Version),20,Fearless,2021,FALSE,NA,G,7,major,242,158.162,0.482,0.779,-5.025,0.041,0.014,0.328,4/9/2021
+You All Over Me (Taylor's Version) [From The Vault],21,Fearless,2021,FALSE,Maren Morris,D,2,major,221,142.893,0.599,0.494,-7.61,0.037,0.816,0.44,4/9/2021
+Mr. Perfectly Fine (Taylor's Version) [From The Vault],22,Fearless,2021,FALSE,NA,B,11,minor,278,135.942,0.66,0.817,-6.269,0.052,0.162,0.714,4/9/2021
+We Were Happy (Taylor's Version) [From The Vault],23,Fearless,2021,FALSE,NA,C,0,major,244,106.007,0.609,0.373,-8.819,0.026,0.849,0.13,4/9/2021
+That's When (Taylor's Version) [From The Vault],24,Fearless,2021,FALSE,Keith Urban,F,5,major,189,90.201,0.588,0.608,-7.062,0.037,0.225,0.508,4/9/2021
+Don't You (Taylor's Version) [From The Vault],25,Fearless,2021,FALSE,NA,D#,3,major,209,101.934,0.563,0.473,-11.548,0.05,0.514,0.405,4/9/2021
+Bye Bye Baby (Taylor's Version) [From The Vault],26,Fearless,2021,FALSE,NA,F,5,major,242,80.132,0.624,0.624,-7.86,0.054,0.334,0.527,4/9/2021
+State Of Grace (Taylor's Version),1,Red,2021,FALSE,NA,A,9,major,295,129.958,0.594,0.713,-5.314,0.05,0,0.328,11/12/2021
+Red (Taylor's Version),2,Red,2021,FALSE,NA,C#,1,minor,223,125.047,0.516,0.777,-4.908,0.038,0.001,0.408,11/12/2021
+Treacherous (Taylor's Version),3,Red,2021,FALSE,NA,D,2,major,243,109.984,0.645,0.593,-6.506,0.029,0.034,0.299,11/12/2021
+I Knew You Were Trouble (Taylor's Version),4,Red,2021,FALSE,NA,F#,6,major,220,154.008,0.584,0.557,-6.371,0.034,0.013,0.767,11/12/2021
+All Too Well (Taylor's Version),5,Red,2021,FALSE,NA,C,0,major,329,185.972,0.44,0.528,-7.809,0.032,0.017,0.132,11/12/2021
+22 (Taylor's Version),6,Red,2021,FALSE,NA,G,7,major,231,103.984,0.642,0.695,-5.62,0.028,0,0.642,11/12/2021
+I Almost Do (Taylor's Version),7,Red,2021,FALSE,NA,E,4,major,245,145.88,0.511,0.559,-6.587,0.026,0.017,0.248,11/12/2021
+We Are Never Ever Getting Back Together (Taylor's Version),8,Red,2021,FALSE,NA,G,7,major,193,172.014,0.567,0.686,-6.139,0.175,0.032,0.716,11/12/2021
+Stay Stay Stay (Taylor's Version),9,Red,2021,FALSE,NA,C,0,major,206,100.02,0.693,0.681,-7.039,0.025,0.085,0.663,11/12/2021
+The Last Time (Taylor's Version),10,Red,2021,FALSE,Gary Lightbody,D,2,major,299,94.05,0.502,0.534,-5.954,0.028,0.04,0.155,11/12/2021
+Holy Ground (Taylor's Version),11,Red,2021,FALSE,NA,A,9,major,203,156.894,0.622,0.809,-5.623,0.064,0.029,0.511,11/12/2021
+Sad Beautiful Tragic (Taylor's Version),12,Red,2021,FALSE,NA,G,7,major,285,130.059,0.601,0.406,-11.827,0.028,0.622,0.232,11/12/2021
+The Lucky One (Taylor's Version),13,Red,2021,FALSE,NA,E,4,major,240,117.889,0.686,0.571,-7.138,0.05,0.066,0.538,11/12/2021
+Everything Has Changed (Taylor's Version),14,Red,2021,FALSE,Ed Sheeran,F#,6,major,245,79.918,0.498,0.61,-5.098,0.036,0.271,0.474,11/12/2021
+Starlight (Taylor's Version),15,Red,2021,FALSE,NA,E,4,major,220,126.014,0.628,0.685,-5.864,0.036,0.003,0.605,11/12/2021
+Begin Again (Taylor's Version),16,Red,2021,FALSE,NA,G,7,major,239,78.915,0.519,0.527,-7.673,0.027,0.075,0.267,11/12/2021
+The Moment I Knew (Taylor's Version),17,Red,2021,FALSE,NA,G,7,major,285,125.952,0.636,0.402,-7.855,0.031,0.049,0.208,11/12/2021
+Come Back...Be Here (Taylor's Version),18,Red,2021,FALSE,NA,E,4,major,223,79.846,0.46,0.632,-6.031,0.03,0.016,0.399,11/12/2021
+Girl At Home (Taylor's Version),19,Red,2021,FALSE,NA,F,5,major,221,125.089,0.691,0.736,-6.974,0.033,0.01,0.612,11/12/2021
+State Of Grace (Acoustic Version) [Taylor's Version],20,Red,2021,FALSE,NA,G,7,major,322,208.918,0.445,0.131,-13.778,0.056,0.663,0.101,11/12/2021
+Ronan (Taylor's Version),21,Red,2021,FALSE,NA,C,0,major,264,116.04,0.623,0.279,-10.802,0.031,0.661,0.38,11/12/2021
+Better Man (Taylor's Version) [From The Vault],22,Red,2021,FALSE,NA,E,4,major,297,73.942,0.473,0.579,-5.824,0.038,0.214,0.255,11/12/2021
+Nothing New (Taylor's Version) [From The Vault],23,Red,2021,FALSE,Phoebe Bridgers,C,0,major,259,101.96,0.606,0.377,-9.455,0.028,0.817,0.446,11/12/2021
+Babe (Taylor's Version) [From The Vault],24,Red,2021,FALSE,NA,E,4,major,224,167.844,0.584,0.743,-7.075,0.093,0.054,0.746,11/12/2021
+Message In A Bottle (Taylor's Version) [From The Vault],25,Red,2021,FALSE,NA,G,7,major,226,115.915,0.622,0.791,-6.106,0.054,0.002,0.494,11/12/2021
+I Bet You Think About Me (Taylor's Version) [From The Vault],26,Red,2021,FALSE,Chris Stapleton,C,0,major,285,149.654,0.391,0.715,-4.516,0.05,0.167,0.473,11/12/2021
+Forever Winter (Taylor's Version) [From The Vault],27,Red,2021,FALSE,NA,G,7,major,264,116.012,0.611,0.552,-5.828,0.031,0.256,0.41,11/12/2021
+Run (Taylor's Version) [From The Vault],28,Red,2021,FALSE,Ed Sheeran,D#,3,major,240,125.039,0.61,0.488,-6.918,0.029,0.817,0.443,11/12/2021
+The Very First Night (Taylor's Version) [From The Vault],29,Red,2021,FALSE,NA,G,7,major,200,121.009,0.678,0.733,-5.025,0.028,0.001,0.581,11/12/2021
+All Too Well (10 Minute Version) [Taylor's Version] [From The Vault],30,Red,2021,FALSE,NA,C,0,major,613,93.023,0.631,0.518,-8.771,0.03,0.274,0.205,11/12/2021
+Lavender Haze,1,Midnights,2022,FALSE,NA,A#,10,major,202,97.038,0.735,0.444,-10.519,0.068,0.204,0.098,10/21/2022
+Maroon,2,Midnights,2022,FALSE,NA,G,7,major,218,108.034,0.658,0.378,-8.3,0.038,0.059,0.038,10/21/2022
+Anti-Hero,3,Midnights,2022,FALSE,NA,E,4,major,201,96.953,0.638,0.634,-6.582,0.046,0.133,0.519,10/21/2022
+Snow On The Beach,4,Midnights,2022,FALSE,Lana Del Rey,A,9,major,256,110.007,0.659,0.323,-13.425,0.044,0.735,0.154,10/21/2022
+"You're On Your Own, Kid",5,Midnights,2022,FALSE,NA,D,2,major,194,120.044,0.694,0.38,-10.307,0.061,0.416,0.376,10/21/2022
+Midnight Rain,6,Midnights,2022,FALSE,NA,C,0,major,175,139.966,0.636,0.377,-11.721,0.071,0.71,0.23,10/21/2022
+Question...?,7,Midnights,2022,FALSE,NA,G,7,major,211,108.989,0.751,0.502,-8.777,0.162,0.226,0.112,10/21/2022
+Vigilante Shit,8,Midnights,2022,FALSE,NA,E,4,minor,165,79.996,0.87,0.279,-11.134,0.364,0.16,0.16,10/21/2022
+Bejeweled,9,Midnights,2022,FALSE,NA,G,7,major,194,164.003,0.7,0.55,-9.13,0.065,0.066,0.412,10/21/2022
+Labyrinth,10,Midnights,2022,FALSE,NA,C,0,major,248,110.039,0.487,0.313,-15.434,0.049,0.791,0.141,10/21/2022
+Karma,11,Midnights,2022,FALSE,NA,G#,8,major,205,90.024,0.649,0.622,-7.054,0.058,0.074,0.106,10/21/2022
+Sweet Nothing,12,Midnights,2022,FALSE,NA,C,0,major,188,176.747,0.334,0.161,-14.875,0.051,0.967,0.396,10/21/2022
+Mastermind,13,Midnights,2022,FALSE,NA,E,4,major,191,125.934,0.661,0.352,-14.077,0.117,0.571,0.13,10/21/2022
+The Great War,14,Midnights,2022,TRUE,NA,F,5,major,240,96.016,0.573,0.741,-8.987,0.035,0.219,0.554,10/21/2022
+Bigger Than The Whole Sky,15,Midnights,2022,TRUE,NA,F#,6,major,219,165.71,0.422,0.235,-12.379,0.057,0.826,0.068,10/21/2022
+Paris,16,Midnights,2022,TRUE,NA,G,7,major,196,110.947,0.7,0.509,-10.547,0.079,0.112,0.345,10/21/2022
+High Infidelity,17,Midnights,2022,TRUE,NA,A#,10,major,231,87.862,0.646,0.529,-10.179,0.086,0.723,0.755,10/21/2022
+Glitch,18,Midnights,2022,TRUE,NA,B,11,minor,149,140.864,0.675,0.466,-9.738,0.201,0.361,0.347,10/21/2022
+"Would've, Could've, Should've",19,Midnights,2022,TRUE,NA,G,7,major,260,157.979,0.483,0.84,-6.508,0.119,0.43,0.55,10/21/2022
+Dear Reader,20,Midnights,2022,TRUE,NA,C,0,major,225,107.747,0.562,0.388,-12.088,0.071,0.481,0.159,10/21/2022
